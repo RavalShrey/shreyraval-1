@@ -1,2 +1,2 @@
 # shreyraval-1
-This is my firs git repository
+This is my first git repository
